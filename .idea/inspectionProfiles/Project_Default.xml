@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="coloredlogs" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="flatbuffers" />
+          <option value="fonttools" />
+          <option value="humanfriendly" />
+          <option value="kiwisolver" />
+          <option value="matplotlib" />
+          <option value="mpmath" />
+          <option value="onnxruntime" />
+          <option value="opencv-python" />
+          <option value="packaging" />
+          <option value="pillow" />
+          <option value="protobuf" />
+          <option value="pyclipper" />
+          <option value="pyparsing" />
+          <option value="PyYAML" />
+          <option value="rapidocr-onnxruntime" />
+          <option value="shapely" />
+          <option value="sympy" />
+          <option value="tqdm" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
