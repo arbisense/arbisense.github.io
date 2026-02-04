@@ -23,7 +23,7 @@ email: info@arbisense.com
 description: >- # this means to ignore newlines until "baseurl:"
  Making sense of humans
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https:www.arbisense.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.arbisense.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  arbisense
 
